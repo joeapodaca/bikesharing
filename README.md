@@ -17,7 +17,7 @@ Bike_Repairs shows that about 20% of the bikes require repairs.
 
 ![Bike_Repairs](https://github.com/joeapodaca/bikesharing/blob/main/pics/Bike_Repairs.JPG)
 
-Checkout_Times_by_Gender showsthat the males checkout the most bikes.
+Checkout_Times_by_Gender shows that males checkout the most bikes.
 
 ![Checkout_Times_by_Gender](https://github.com/joeapodaca/bikesharing/blob/main/pics/Checkout_Times_by_Gender.JPG)
 
@@ -29,11 +29,11 @@ Trips_by_Weekday_for_Each_Hour shows that the most rides are on Thursdays at 6pm
 
 ![Trips_by_Weekday_for_Each_Hour](https://github.com/joeapodaca/bikesharing/blob/main/pics/Trips_by_Weekday_for_Each_Hour.JPG)
 
-Trips_by_Gender shows that males are riding the most on Thursdays.
+Trips_by_Gender shows that males are riding the most.
 
 ![Trips_by_Gender](https://github.com/joeapodaca/bikesharing/blob/main/pics/Trips_by_Gender.JPG)
 
-User_Trips_by_Gender_by_Weekday shows that males ride the most everday of the week.
+User_Trips_by_Gender_by_Weekday shows that males ride everday of the week.
 
 ![User_Trips_by_Gender_by_Weekday](https://github.com/joeapodaca/bikesharing/blob/main/pics/User_Trips_by_Gender_by_Weekday.JPG)
 
